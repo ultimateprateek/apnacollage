@@ -4,8 +4,8 @@ This is me learning to use github by apnacollage
 <strong> Author : Prateek </strong>
 <br>
 <style>
-  a: active{
-    color:red;
+  a: hover{
+    color: (255,0,0);
   }
 </style>
-<a href ="https://youtu.be/Ez8F0nW6S-w?si=7bNY7YnIUDyKIjCT">
+<a href ="https://youtu.be/Ez8F0nW6S-w?si=7bNY7YnIUDyKIjCT">Video Link</a>
